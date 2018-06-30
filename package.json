@@ -1,0 +1,23 @@
+{
+  "name": "handlebars-humanize",
+  "description": "Handlebars / Humanize",
+  "version": "0.1.0",
+  "homepage": "https://github.com/raicheff/handlebars-humanize",
+  "author": {
+    "name": "Boris Raicheff",
+    "email": "b@raicheff.com",
+    "url": "https://raicheff.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/raicheff/handlebars-humanize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raicheff/handlebars-humanize/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "main": "handlebars-humanize.js"
+}
